@@ -1,3 +1,4 @@
+![alt text](https://github.com/Gautam121205/Gautam121205/blob/master/Gautam.jpg)
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
