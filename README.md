@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam12125" alt="gautam12125" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gautam12125](https://github.com/Gautam12125)
 
-- 📫 How to reach me **gs0852963741@gmail.com**
+- 📫 How to reach me **gautamsharma88540@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
